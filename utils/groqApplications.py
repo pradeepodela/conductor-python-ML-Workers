@@ -6,7 +6,7 @@ import io
 import re
 
 # Initialize the Groq client
-client = Groq(api_key="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")
+client = Groq(api_key="YOUR_API_KEY")
 
 class CustomJSONEncoder(json.JSONEncoder):
     """Custom JSON encoder that handles special types from the Groq API."""
