@@ -1,0 +1,10 @@
+conductor
+groq
+transformers
+mistralai
+torch
+conductor-python
+gliner
+IPython
+git+https://github.com/VarunGumma/IndicTransToolkit
+ollama
